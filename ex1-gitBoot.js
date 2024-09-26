@@ -3,3 +3,4 @@ function addString (num) {
     return mvp;
 }
 console.log(addString(26));
+console.log("Added first line from techteam1 on Github");
