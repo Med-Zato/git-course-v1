@@ -4,3 +4,6 @@ function addString (num) {
 }
 console.log(addString(26));
 console.log("Added first line from techteam1 on Github");
+console.log("Added this line from usser2 account on Github");
+var b = 700;
+var c = 900;
